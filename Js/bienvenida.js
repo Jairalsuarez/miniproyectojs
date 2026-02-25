@@ -2,7 +2,7 @@ const proyectos = [
     {
         nombre: "Portafolio",
         descripcion: "Mi primer portafolio.",
-        image: "../proyecto.webp",
+        image: "../dist/proyecto.webp",
         link: "https://miniproyectobetter.vercel.app/"
     },
     {
