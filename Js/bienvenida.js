@@ -1,9 +1,10 @@
+import urlProyecto from "../src/proyecto.webp"
 const proyectos = [
     {
         nombre: "Portafolio",
         descripcion: "Mi primer portafolio.",
         image: "../dist/proyecto.webp",
-        link: "https://miniproyectobetter.vercel.app/"
+        link: urlProyecto
     },
     {
         nombre: "Proyecto 2",
