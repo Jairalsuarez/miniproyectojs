@@ -1,10 +1,10 @@
-import urlProyecto from "../src/proyecto.webp"
+i
 const proyectos = [
     {
         nombre: "Portafolio",
         descripcion: "Mi primer portafolio.",
         image: "../dist/proyecto.webp",
-        link: urlProyecto
+        link: "https://res.cloudinary.com/dvcqov0i8/image/upload/v1772025053/Captura_de_pantalla_2026-02-25_073523_wsimfs.png"
     },
     {
         nombre: "Proyecto 2",
